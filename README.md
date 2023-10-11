@@ -5,4 +5,4 @@ A simple website to add tasks to your schedule during the workday and dynamicall
 [Workday Scheduler](https://alexismenendez.github.io/amenendez-workday-scheduler/)
 
 ## Final Product
-![final](./Assets/website-screenshot.png)
+![final](./Assets/images/website-screenshot.png)
